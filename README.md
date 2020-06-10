@@ -1,4 +1,6 @@
 
+[![Build Status](https://hansterwal.visualstudio.com/Space%20Game%20-%20web%20-%20Gitflow/_apis/build/status/hansterwal.mslearn-tailspin-spacegame-web?branchName=master)](https://hansterwal.visualstudio.com/Space%20Game%20-%20web%20-%20Gitflow/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
